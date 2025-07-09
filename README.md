@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nisargvekariya01
 - 👀 I’m interested in competitive programming
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m just completed Full Stack Development
 
 <!---
 nisargvekariya01/nisargvekariya01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
