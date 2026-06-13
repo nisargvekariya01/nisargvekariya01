@@ -120,16 +120,6 @@ me.say_hello()
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=nisargvekariya01&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7" alt="GitHub Trophies" width="100%"/>
-
-</div>
-
----
-
 ## 📈 Contribution Activity
 
 <div align="center">
