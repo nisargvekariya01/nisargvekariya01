@@ -114,7 +114,7 @@ me.say_hello()
 
 <div align="center">
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=nisargvekariya01&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="70%"/>
+<img src="https://streak-stats.demolab.com?user=nisargvekariya01&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="70%"/>
 
 </div>
 
@@ -124,7 +124,7 @@ me.say_hello()
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=nisargvekariya01&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=nisargvekariya01&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7" alt="GitHub Trophies" width="100%"/>
 
 </div>
 
@@ -144,7 +144,7 @@ me.say_hello()
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 </div>
 
