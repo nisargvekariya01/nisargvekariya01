@@ -63,6 +63,7 @@ me.say_hello()
 ## 💻 Tech Stack
 
 ### 🗣️ Languages
+
 <div align="center">
 
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -74,6 +75,7 @@ me.say_hello()
 </div>
 
 ### 🚀 Frameworks & Libraries
+
 <div align="center">
 
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -83,6 +85,7 @@ me.say_hello()
 </div>
 
 ### 🗄️ Databases & Services
+
 <div align="center">
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -91,6 +94,7 @@ me.say_hello()
 </div>
 
 ### 🛠️ Tools & Platforms
+
 <div align="center">
 
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -105,17 +109,14 @@ me.say_hello()
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=nisargvekariya01&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" height="180" alt="GitHub Stats"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nisargvekariya01&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" height="180" alt="Top Languages"/>
-
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=nisargvekariya01&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=nisargvekariya01&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" height="180" alt="Top Languages" />
 </div>
 
+<br/>
+
 <div align="center">
-
-<img src="https://streak-stats.demolab.com?user=nisargvekariya01&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="70%"/>
-
+  <img src="https://streak-stats.demolab.com?user=nisargvekariya01&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="70%"/>
 </div>
 
 ---
@@ -123,9 +124,7 @@ me.say_hello()
 ## 📈 Contribution Activity
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nisargvekariya01&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Graph"/>
-
+  <img src="https://github-readme-activity-graph-fawn-one.vercel.app/graph?username=nisargvekariya01&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Graph"/>
 </div>
 
 ---
